@@ -9,3 +9,5 @@ Using the Leaflet js library, I created a map based on the dataset. My map conta
 The visualization is available on the following link:
 
 ![Magnitude_4 5_and_Above_30_Days](https://github.com/JCNdongo/leaflet-challenge/assets/120480912/4176e408-9d5c-47b1-a46f-ffc582f34312)
+
+Data Source: USGS GeoJSON Feed: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
