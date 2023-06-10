@@ -6,7 +6,7 @@ I retrieved the following json dataset from the USGS: https://earthquake.usgs.go
 
 Using the Leaflet js library, I created a map based on the dataset. My map contains data markers with details about each earthquake. 
 
-The visualization is available on the following link:
+The visualization is available on the following link: https://jcndongo.github.io/earthquake.github.io/
 
 ![Magnitude_4 5_and_Above_30_Days](https://github.com/JCNdongo/leaflet-challenge/assets/120480912/4176e408-9d5c-47b1-a46f-ffc582f34312)
 
